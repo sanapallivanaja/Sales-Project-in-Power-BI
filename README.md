@@ -4,6 +4,7 @@ A clean and interactive Power BI dashboard that analyzes key sales metrics such 
 This project helps businesses track KPIs, identify trends, compare performance across regions and customers, and make data-driven decisions through dynamic visualizations.
 
 Tools & Technologies Used:
+
 Power BI Desktop – For building reports, dashboards, and interactive visualizations
 
 Power Query (M Language) – For data cleaning, transformation, and shaping
